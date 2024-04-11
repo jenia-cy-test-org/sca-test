@@ -1,5 +1,5 @@
 boto3==1.28.0
-idna==1.2.1
+idna==3.7
 py==1.9.0
 django==2.0.0
 celery[redis]==5.2.8
